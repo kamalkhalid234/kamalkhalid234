@@ -25,10 +25,5 @@
 <!-- Langages les plus utilisés -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=btelgeuse&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧠 Langages que j'utilise souvent :
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 📍 Visit my GitHub profile: [@kamalkhalid234](https://github.com/kamalkhalid234)
